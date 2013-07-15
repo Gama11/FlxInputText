@@ -7,7 +7,12 @@ package org.flixel
 	
 	/**
 	 * FlxInputText v1.10, Input text field extension for Flixel
-	 * contributors: Gama11, Mr_Walrus, Nitram_cero, and Martin Sebastian Wain
+	 * @author Gama11, Mr_Walrus, nitram_cero (Martín Sebastián Wain)
+	 * @link http://forums.flixel.org/index.php/topic,272.0.html
+	 * 
+	 * Copyright (c) 2009 Martín Sebastián Wain
+	 * License: Creative Commons Attribution 3.0 United States
+	 * @link http://creativecommons.org/licenses/by/3.0/us/
 	 */
 	
 	public class FlxInputText extends FlxText 
